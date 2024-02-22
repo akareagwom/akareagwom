@@ -11,5 +11,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about my tech journey
 - 📫 How to reach me: akareazikang20@gmail.com
 - 😄 Pronouns: 🔥🔥🔥
-- ⚡ Fun fact: I a tech savvy
+- ⚡ Fun fact: I am a tech savvy
 
