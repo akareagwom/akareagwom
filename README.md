@@ -4,8 +4,6 @@
 **akareagwom/akareagwom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akareagwom&label=Profile%20views&color=0e75b6&style=flat" alt="akareagwom" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akareagwom" alt="akareagwom" /></a> </p>
-
 - 🔭 I’m currently working on [IP Address Tracker](https://github.com/akareagwom/IP-Address-Tracker)
 
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
