@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akare</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-**akareagwom/akareagwom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akareagwom&label=Profile%20views&color=0e75b6&style=flat" alt="akareagwom" /> </p>
 
 - 🔭 I’m currently working on [IP Address Tracker](https://github.com/akareagwom/IP-Address-Tracker)
