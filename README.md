@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akareagwom&label=Profile%20views&color=0e75b6&style=flat" alt="akareagwom" /> </p>
 
-- 🔭 I’m currently working on [IP Address Tracker](https://github.com/akareagwom/IP-Address-Tracker)
+- 🔭 I’m currently working on [NOTE-PAL](https://github.com/akareagwom/note-pal)
 
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
