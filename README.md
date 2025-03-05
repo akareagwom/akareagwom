@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akareagwom&label=Profile%20views&color=0e75b6&style=flat" alt="akareagwom" /> </p>
 
-- 🔭 I’m currently working on [NOTE-PAL](https://github.com/akareagwom/note-pal)
+- 🔭 I’m currently working at Tobams Group
 
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1kgIt5msLExY0iUwGfVWMxh6HmVznwRzYrBwJLq83Z8Q/edit?usp=sharing](https://docs.google.com/document/d/1kgIt5msLExY0iUwGfVWMxh6HmVznwRzYrBwJLq83Z8Q/edit?usp=sharing)
 
-- ⚡ Fun fact **I have TACT**
+- ⚡ Fun fact **I'm working late coz I'm a dev gurrl**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
