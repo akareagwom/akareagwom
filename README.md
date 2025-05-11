@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-akare.vercel.app/](https://portfolio-akare.vercel.app/)
-
+and on [github.com/akare-tobamsgroup](github.com/akare-tobamsgroup)
 - 💬 Ask me about **React, CSS Library, Creativity and Problem Solving Approach**
 
 - 📫 How to reach me **akareazikang20@gmail.com**
