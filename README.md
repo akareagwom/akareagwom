@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akareagwom&label=Profile%20views&color=0e75b6&style=flat" alt="akareagwom" /> </p>
 
-- 🔭 I’m currently working at TLearning and Tobams Group
+- 🔭 I’m currently working Tobams Group
 
 - 🌱 I’m currently learning **Vue, Angular and TypeScript**
 
